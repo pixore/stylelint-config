@@ -5,5 +5,10 @@ module.exports = {
     'scss/dollar-variable-colon-space-after': 'always',
     'color-no-hex': true,
     'color-named': 'never',
+    'no-extra-semicolons': true,
+    'no-duplicate-selectors': true,
+    'declaration-block-no-duplicate-properties': true,
+    'unit-case': 'lower',
+    'unit-no-unknown': true
   }
 }

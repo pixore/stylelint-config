@@ -16,7 +16,8 @@
   "author": "Jose Albizures <albizures3601@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "stylelint-config-sass-guidelines": "^2.2.0"
+    "stylelint-config-sass-guidelines": "^2.2.0",
+    "stylelint-declaration-use-variable": "^1.6.0"
   },
   "peerDependencies": {
     "stylelint": "^7.12.0"
